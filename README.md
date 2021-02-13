@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Looking for the answers!
+
+trying to understand a new thing every day
